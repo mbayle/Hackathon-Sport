@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hackathon3</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_All">Tout afficher</string>
+    <string name="title_Sport1">Filtre : Pétanque</string>
+    <string name="title_Sport2">Filtre : Molky / Slackline</string>
+    <string name="title_Sport3">Filtre : Slackline</string>
+
+    <string name="add_sport_button">Ajouter une activité</string>
+
+    <string name="pseudo">Entrez votre pseudo</string>
+    <string name="ajout_pseudo">Renseignez votre pseudo</string>
+    <string name="Valider">Nous rejoindre</string>
+
+    <string name="Créer">Créer sa partie !</string>
+
+</resources>
